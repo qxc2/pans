@@ -30,7 +30,8 @@ permalink: /publications/
 19. Shigang Chen, Pan Sun, Boyao Sun, John Humphreys, Peimiao Zou, Kui Xie, Shanwen Tao*. Nitrate-based ‘oversaturated gel electrolyte’ for high-voltage and high-stability aqueous lithium batteries. Energy Storage Materials 2021, 37, 598–608. 
 18. Shigang Chen, Pan Sun, Peimiao Zou, Mengfei Zhang, Georgina Jeerh, Shanwen Tao*. Acetate-based ‘oversaturated gel electrolyte’enabling highly stable aqueous Zn-MnO2 battery. Energy Storage Materials 2021, 42, 240–251.	
 17. Xiaobin Yang, Pan Sun, Huiru Zhang, Zijing Xia, Ruben Z. Waldman, Anil U. Mane, Jeffrey W. Elam, Lu Shao*, and Seth B. Darling*. Polyphenol-Sensitized Atomic Layer Deposition for Membrane Interface Hydrophilization. Advanced Functional Materials 2020, 1910062.
-At the University of Chinese Academy of Sciences                                       
+
+**At the University of Chinese Academy of Sciences**                                
 16. Yongxin Li, Pan Sun, Luyang Zhao, Xuehai Yan, Dennis Kee-Pui Ng, Pui-Chi Lo*. Fe3+‐Driven Assembly of Catalase‐Like Supramolecular Photosensitizing Nanozymes for Combating Hypoxic Tumor. Angew. Chem. Int. Ed 2020, 132 (51), 23428–23438.
 15. Xiaoqin Wang, Kun Huang, Wenjuan Cao, Pan Sun, Na Sui, Weiyuan Song, Huizhou Liu.
 Enhanced separation of praseodymium and neodymium by kinetic “push and pull” system of [A336][NO3]-DTPA in a column extractor. Journal of Rare Earths, 2020, 38, 203−212.
