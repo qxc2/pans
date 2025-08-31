@@ -3,21 +3,12 @@ collection: research
 permalink: /research/
 ---
 
-**Research Interests**
- Topics: Societal Impact, Sustainability, and Public Sector OR
- Methodologies: Empirical Econometric, Machine Learning, Lab Experiment
- 
-**Papers Under Review and Working Papers**
- 1. Saving Lives in Animal Shelters: Strategic Time Allocation Under Capacity Constraints, with Elena Katok and
- Ernan Haruvy. under review at Management Science.- Finalist, 2025 INFORMS Doing Good with Good OR student paper competition- Accepted by 2025 ISOM Research Workshop at University of Florida
- 2. From Theory to Impact: Applying Strategic Time Allocation at Dallas Animal Services, with Elena Katok. Work
- in Progress.
+**RESEARCH EXPERIENCES AND INTERESTS**                           
+I am interested in the fundamental and applied aspects of separation of heavy metal ions by solvent extraction, solid/liquid adsorption as well as other chemical separation techniques. Combined application of interface-selective techniques (non-linear vibrational spectroscopy), and molecular dynamics simulations were employed in my PhD research work. The interface behavior of extractant and ions were found to play a crucial role in determining the efficiency and selectivity of ion transport across the interface. For example, the orientation of extractant at the interface, its propensity for the interface, and the complexation behavior of salt anions, as well as the competitive adsorption of ions were suggested to play a crucial role in regulating and enhancing the extraction and separation of lanthanide and transition metal ions. The knowledge obtained from this fundamental research provides new ideas for the development of novel extraction and separation methods applied to different systems, including the separation of vanadium(V) from chromium(VI), the separation of rare earths from transition metals, and the separation of adjacent rare earths Pr/Nd. In addition, a poly-ether group functional polymer microsphere was synthesized to achieve adsorption and light-induce reduction of toxic hexavalent chromium from the industrial wastewater. 
 
- **Presentation and Invited Talks**
- 1. INFORMS Annual Meeting                                               2021, 2022, 2023, 2024, scheduled 2025
- 2. INFORMS MSOM Conference                                              2024
- 3. POMS Annual Conference                                               2025
- 4. Behavioral Operations Conference                                     2022, 2023, 2024
- 5. BOMSI Workshop at Harvard University                                 2023
- 6. DSI Annual Conference                                                scheduled 2025
- 7. 2025 ISOM Research Workshop, invited by the University of Florida    2025
+During postdoc research in ChemMatCARS at the Advanced Photon Source, I have become deeply interested in using liquid interface X-ray scattering to probe interfacial processes relevant to separations and nanoparticle phenomena. I used X ray reflectivity and grazing incidence X ray diffraction to probe the role of free ligands in the organization of nanoparticles at liquid surfaces. Free ligands at the surface regulated the organization of bound ligands on the core and, thereby, the interactions of nanoparticles with their surroundings. In an ongoing project related to solvent extraction, the interfacial behavior of lanthanide-extractant complexes at the water surface were measured by element-sensitive X-ray fluorescence near total reflection. Unexpectedly, light lanthanides preferentially occupied the liquid-vapor interface over heavy lanthanides. This behavior contradicted our expectation that heavy lanthanides should have a higher interfacial density because they are preferentially extracted by solvent extraction. This research emphasizes the important and likely antagonistic role played by ion-extractant complexation within the aqueous phase and helps to clarify the route of extractant assisted ion transport during liquid/liquid solvent extraction processes. The conclusion of this work has been extended to transition metal ions recently after the continuous research on the behavior of Fe/Co/Ni.
+
+The current research project at the University of Illinois at Chicago, I’m focus on the binding of rare earth ions by peptide at the interface. The purpose of this project is to understand the interaction of peptide with rare earth ions at the interface, develop new green and sustainable separation method to recover rare earth ions. Besides, I also discover a tunable adsorption-desorption of rare earth ions at interface controlled by X ray exposure. It provides new ideas to regulate the adsorption selectivity of rare earth ions and enhance the separation efficiency.
+
+I have also built a good collaboration relationship with other research groups including Argonne National Laboratory, University of Warwick, City University of Hong Kong, Singapore University of Technology and Design. My molecular dynamics simulation work help them to get a molecular level understanding into the mechanism underlie their research topic and facilitate the development of new photo-sensitizing nanozymes, oil-water separation membrane, novel aqueous zinc battery and lithium-sulfur battery.
+
