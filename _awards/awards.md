@@ -3,7 +3,8 @@ collection: awards
 permalink: /awards/
 ---
 
-  - **Graduate Studies Scholarship**, The University of Texas at Dallas  2021-2026
-  - **Nomination for President’s Teaching Excellence Award**, The University of Texas at Dallas  2025
-  - **Dean’s Excellence Scholarship**, The University of Texas at Dallas  2020
-  - **High Scholar of Distinction at JSOM (Summa Cum Laude)**, The University of Texas at Dallas  2021
+5.	National Scholarship Award by Chinese Academy of Sciences, Beijing, China. (2016, 2018)
+4.	Excellent Student Award by Chinese Academy of Sciences, Beijing, China. (2015-2019)
+3.	Excellent Graduate of Central South University, Changsha, China. (2014)
+2.	Excellent Student Award by Central South University, Changsha, China. (2010-2014)
+1.	National Scholarship Award by Central South University, Changsha, China. (2012) 
