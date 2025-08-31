@@ -19,6 +19,7 @@ permalink: /publications/
 28.	Pan Sun, Erik A.	Binter, Trung Vo, Ilan Benjamin, Mrinal	K.	Bera, Binhua Lin, Wei Bu*, Mark L. Schlossman*. Relevance of surface adsorption and aqueous complexation for the separation of Co (II) and Ni (II). J. Phys. Chem. B 2023, 127(15), 3505–3515.
 27. Daliang Fang, Shaozhuan Huang, Tingting Xu, Pan Sun, Xue Liang Li, Yew Von Lim, Dong Yan, Yang Shang, Bing-Jian Su, Jenh-Yih Juang, Qi Ge, Hui Ying Yang.* Low-Coordinated Zn–N2 Sites as Bidirectional Atomic Catalysis for Room-Temperature Na–S Batteries. ACS Appl. Mater. Interfaces 2023, 15, 22, 26650–26659.
 26. Srikant Kumar Singh, Wei Bu, Pan Sun, Matthew F Paige*. Mixing in Langmuir Monolayers: Perfluorotetradecanoic Acid and a Gemini Surfactant without a Linker. Langmuir 2023, 39, 46, 16503–16512.
+
 **At the University of Chicago**                                                                               
 25. Shuo Zhang, Yongxin Li*, Chunlei Liu, Yanhui Zhang, Pan Sun*, Xiaopeng Lan*, Chunzhao Liu*. Supramolecular amino acid-based metallo-nanozyme through multicomponent coordination self-assembly for in-site tumor synergistic catalytic-chemotherapy. Chemical Engineering Journal 2022, 437, 1352312.
 24. Srikant Kumar Singh, Alfred Yeboah, Wei Bu, Pan Sun, and Matthew F. Paige*. Physicochemical Properties of Monolayers of a Gemini Surfactant with a Minimal-Length Spacer. Langmuir 2022, 38(51), 16004–16013.
@@ -46,5 +47,6 @@ Enhanced separation of praseodymium and neodymium by kinetic “push and pull”
 4. Jieyuan Lin, Kun Huang, Pan Sun, Huizhou Liu. Phase separation dynamics in oil-polymer-salt-water three-liquid-phase system: Effect of phase-forming salt. Chemical Engineering Science, 2018, 176: 622−631.
 3. Pan Sun, Kun Huang*, Xiaoqin Wang, Weiyuan Song, Han Zheng, Huizhou Liu. Separation of V from alkaline solution containing Cr using acidified primary amine N1923 with the addition of trisodium citrate. Separation and Purification Technology 2017, 179, 504−512.
 2. Pan Sun, Kun Huang*, Huizhou Liu. Separation of V and Cr in alkaline aqueous solution using acidified primary amine N1923. Hydrometallurgy 2016, 165, 370−380.
+
 **At the Central South University**                                      
 1. Guotao Zhou, Qinggang Li, Pan Sun, Wenjuan Guan, Guiqing Zhang, Zuoying Cao, Li Zeng. Removal of impurities from scandium chloride solution using 732-type resin. Journal of Rare Earth 2018, 36(3), 311-316.
