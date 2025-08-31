@@ -11,75 +11,57 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Operations Management, The University of Texas at Dallas, 2026 (expected)
-* M.S. in Supply Chain Management, The University of Texas at Dallas (GPA: 3.97), May 2021
-* B.S. in Sociology, Harbin Engineering University, China June 2015
+* Ph.D. in Chemical Engineering (Advisors: Kun Huang and Huizhou Liu)   University of Chinese Academy of Sciences  Beijing   China 2019
+* B.S. in Metallurgical Engineering (Advisor: Qinggang Li)              Central South University                   Changsha  China 2014                   
 
 Work experience
 ======
-* Oct 2019 – Jun 2020 :IT Support Analyst                              
-  * UT Dallas, Office of Information and Technology, Dallas, Texas 
-  * Resolved around 480 tickets and helped around 6400 students, faculty, and staffs solve their technical issues.
-    
-* Apr 2017 – Jul 2019: Business Development Supervisor
-  * AUKEY International Limited, Shenzhen, China
-  * Led a team of 4 members and managed the global distribution business for AICOOK with   contracts of $3M.
-  * Adopted new strategies for the supply chain and build a creative business model with a lower cost for distributors.
-
-* Nov 2015 – Mar 2017: Business Development Manager
-  * AUKEY International Limited, Shenzhen, China
-  * Expanded AUKEY to Latin America, India & Poland; contributed ¥1M of ¥7M profit turnaround.
-  * Developed a system processing each procedure including orders integration, production, and international payment.
-
-* Jul 2014 – Aug 2014: Marketing Assistant Intern
-  * The Richards Group, Dallas, Texas    
-  *  Conducted market research and customer analysis for DFW Airport and prepared research files.
-
-Research interests
-======
-- Topics: Societal Impact, Sustainability, and Public Sector OR
-- Methodologies: Empirical Econometric, Machine Learning, Lab Experiment
+* 2024-current	Spedding Fellow Ames National Laboratory
+* 2023-2024	Postdoctoral Associate (Advisor: Benjamin Doughty), Chemical Separations Group, Oak Ridge National Laboratory
+* 2022-2023	Postdoctoral Associate (Advisor: Mark L. Schlossman), Department of Physics, University of Illinois at Chicago                       
+* 2019-2022	Postdoctoral Associate (Advisors: Binhua Lin and Mark L. Schlossman), NSF’s ChemMatCARS, University of Chicago
   
-Skills
+Awards
 ======
-Machine Learning, Python, R, Tableau, STATA, Mathematica, LaTex, Advanced EXCEL, Third-Level Psychology Counselling (certified in China) 
-
-Papers under review and working papers
-======
-  1. Saving Lives in Animal Shelters: Strategic Time Allocation Under Capacity Constraints, with Elena Katok and Ernan Haruvy. under review at Management Science.
-     - Finalist, 2025 INFORMS Doing Good with Good OR student paper competition
-     - Accepted by 2025 ISOM Research Workshop at University of Florida
-  2. From Theory to Impact: Applying Strategic Time Allocation at Dallas Animal Services, with Elena Katok. Work in Progress.
-  
-Presentation and invited talks 
-======
- - INFORMS Annual Meeting                                2021, 2022, 2023, 2024, scheduled 2025
- - INFORMS MSOM Conference                                                                 2024
- - POMS Annual Conference                                                                  2025
- - Behavioral Operations Conference                                            2022, 2023, 2024
- - BOMSI Workshop at Harvard University                                                    2023
- - DSI Annual Conference  scheduled                                                        2025
- - 2025 ISOM Research Workshop, invited by the University of Florida                       2025
- 
-Teaching experience
-======
- - Independent Instructor, The University of Texas at Dallas- Undergraduate core: Managerial Methods in Decision Making Under Uncertainty
-   -  Fall 2025, class size: 75, main topics: statistics- Spring 2025, class size: 65, main topics: statistics, evaluation: 4.8/5.0- Nomination for President’s Teaching Excellence Award
-
-  - Teaching Assistant, The University of Texas at Dallas- MS/BS courses: Predictive Analytics, Quantitative Business Analytics, Purchasing, Sourcing, and Contract Management, Spreadsheet Modeling and Analytics, Retail Operation
-    
-Teaching interests
-======
-Statistics and Data Analysis, Business Programming (R/Python), Predictive Analytics and Forecasting, Spreadsheet Modelling and Analytics, Machine Learning, AI in Supply Chain Management
-    
-Professional and community service
-======
- - Session Chair, 2025 DSI Annual Conference
- - Founding President, JSOM PhD Social Club — first PhD-level student organization at the university
- - Volunteer and Operational Advisor, Dallas Animal Services (weekly engagement)
+5.	National Scholarship Award by Chinese Academy of Sciences, Beijing, China. (2016, 2018)
+4.	Excellent Student Award by Chinese Academy of Sciences, Beijing, China. (2015-2019)
+3.	Excellent Graduate of Central South University, Changsha, China. (2014)
+2.	Excellent Student Award by Central South University, Changsha, China. (2010-2014)
+1.	National Scholarship Award by Central South University, Changsha, China. (2012)
    
-Media coverage
-======
- - Scene on Campus: Dogs of UTD, UTD Social Media, Jul 22, 2024
- - Student Speaker at Master Student’s Graduation Ceremony, UTDallas Website, Aug 12, 2021
+Research Highlights   
+======                                                       
+5.	Eco-friendly rare earth element separation: A bioinspired solution to an industry challenge, 
+University of Pennsylvania, 2025. (Proc. Natl. Acad. Sci. U.S.A. 2024, 121 (52) e2411763121)
+4.	UIC physicists find hidden flaw in century-old, common chemical extraction technique, University of Illinois at Chicago, 2024. (Proc. Natl. Acad. Sci. U.S.A. 2024, 121(13), e2315584121) 
+3.	Solving a Critical Solvent Extraction Riddle, University of Chicago, 2023. (ACS Central Science, 2021, 7(11), 1908–1918)  
+2.	Revealing Fundamental Details Surrounding Nanoparticle Self-Assembly, Advanced Photon Source, 2022. (Nano Letters, 2021, 21, 1613–1619)
+1.	Polymer membranes could benefit from taking a dip, Argonne National Laboratory, 2020. (Advanced Functional Materials, 2020, 1910062)
+   
+Participation in Academic Conferences  
+======                                        
+5.	Competitive anion adsorption at air/water and oil/water interfaces: A tale of solvation in two phases, The 98th ACS Colloid and Surface Science Symposium, 2024, USA. (Oral Report)
+4.	Antagonistic role of aqueous complexation in the solvent extraction and separation of metal ions, AIChE Annual Meeting, 2022, USA. (Oral Report)
+3.	Free thiols regulate the interactions and self-Assembly of thiol-passivated metal nanoparticles, ACS Spring Conference, 2021, USA. (Oral Report)
+2.	Study of competitive adsorption kinetics of lanthanide ions at liquid/liquid interface by total reflection UV-vis spectroscopy, The 20th National Conference on Molecular Spectroscopy, 2018, Qingdao, China. (Oral Report)
+1.	Orientation of extractant TOPO at air-water interface studied by sum frequency generation spectroscopy, The 19th National Conference on Molecular Spectroscopy, 2016, Fuzhou, China. (Poster)
 
+Synergistic Activities and Service    
+=====
+1.	Writing proposals for beamtime in APS, BNL and facilities in CNM (Argonne)
+2.	Associate Editor on the Editorial Board of Frontiers in Chemistry
+3.	Reviewer for scientific journals such as Journal of Colloid and Interface Science,  
+Environmental Science Technology, Langmuir, Soft Matter, The Journal of Physical  
+Chemistry B
+
+Recent Collaborations with Researchers at other Institutions   
+====
+1.	Xiao-min Lin, M Alex Brown, Argonne National Laboratory
+2.	Artem V Gelis, University of Nevada, Las Vegas
+3.	Ilan Benjamin, University of California, Santa Cruz
+4.	Kathleen J. Stebe, University of Pennsylvania
+5.	Monica Olvera de la Cruz, Northwestern University
+6.	Charles Maldarelli, Robert J. Messinger, Raymond S. Tu, The City College of New York
+7.	Shanwen Tao, University of Warwick
+8.	Pui‐Chi Lo, City University of Hong Kong
+9.	Huiying Yang, Singapore University of Technology and Design
