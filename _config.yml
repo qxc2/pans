@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Qiuxia(Katalia) Chen"
+name                     : &name "Pan Sun"
 description              : &description "personal description"
 url                      : https://qxc2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/kataliachen" # the subpath of your site, e.g. "/blog"
-repository               : "qxc2/kataliachen"
+baseurl                  : "/pans" # the subpath of your site, e.g. "/blog"
+repository               : "qxc2/pans"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,20 +23,20 @@ repository               : "qxc2/kataliachen"
 author:
   # Biographic information
   avatar           : "/profile.jpg"
-  name             : "Katalia Chen"
-  pronouns         : "she/her"  
-  bio              : "Ph.D. Candidate in Operations Management"
-  location         : "800 W Campbell Rd Richardson TX 75080"
-  employer         : "The University of Texas at Dallas" 
-  uri              : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
-  email            : "Qiuxia.Chen@utdallas.edu" 
+  name             : "Pan Sun"
+  pronouns         : "he/him"  
+  bio              : "Ph.D. in Chemical Engineering"
+  location         : "2408 Pammel Dr, Ames, IA 50011"
+  employer         : "Ames National Laboratory" 
+#  uri              : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
+  email            : "pans@ameslab.gov" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # 
+  googlescholar    : # "https://scholar.google.com/citations?hl=zh-CN&user=afBfdY8AAAAJ"
   impactstory      : # URL
-  orcid            : #0000-0002-6128-8656
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6128-8656"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : katalia-chen
+  linkedin         : pan-sun-539738248
   mastodon         : # URL
   medium           :
   pinterest        : # Username
