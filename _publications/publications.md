@@ -6,7 +6,7 @@ permalink: /publications/
 **Representive works**
 
 **I. Critical Minerals Recovery, Separation, and Circularity**
-1. **Pan Sun***, Dapeng Jing, Daniel B. Durham, Bikash Sapkota, Yanna Chen, Jared L. Anderson*. Ion-specific precipitation of extractants enables rare earth separation and wastewater remediation from solvent extraction of critical elements. Environ. Sci. Technol. 2026, 60, 6239–6248.
+1. Kun Huang*, Dapeng Jing, Daniel B. Durham, Bikash Sapkota, Yanna Chen, Jared L. Anderson*. Ion-specific precipitation of extractants enables rare earth separation and wastewater remediation from solvent extraction of critical elements. Environ. Sci. Technol. 2026, 60, 6239–6248.
 2. Pan Sun*, Erik A. Binter, Bikash Sapkota, M. Alex Brown, Artem V. Gelis, Mrinal K. Bera, Binhua Lin, Wei Bu*, Mark L. Schlossman*. X-ray-tunable rare earth ion adsorption to the air-water interface. ACS Appl. Mater. Interfaces 2024, 16, 49935–49943.
 3. Pan Sun, Kun Huang*, Huizhou Liu. Separation of adjacent rare earth elements enhanced by “external push-pull” extraction system: An example for the separation of Pr and Nd. Hydrometallurgy 2019, 189, 105136.
 4. Pan Sun, Kun Huang*, Weiyuan Song, Zhen Gao, Huizhou Liu. Separation of rare earths from the transition metals using a novel ionic liquid-based aqueous two phase system: Towards green and efficient recycling of rare earths from the NdFeB magnets. Ind. Eng. Chem. Res. 2018, 57, 16934–16943.
