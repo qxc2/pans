@@ -8,4 +8,4 @@ permalink: /social/
 - [Solving a Critical Solvent Extraction Riddle, University of Chicago, 2023. (ACS Central Science, 2021, 7(11), 1908–1918)](https://chemmatcars.uchicago.edu/2023/04/06/solving-a-critical-solvent-extraction-riddle/)
 - [Revealing Fundamental Details Surrounding Nanoparticle Self-Assembly, Advanced Photon Source, 2022. (Nano Letters, 2021, 21, 1613–1619)](https://www.aps.anl.gov/APS-Science-Highlight/2022-01-13/revealing-fundamental-details-surrounding-nanoparticle-self)
 - [Polymer membranes could benefit from taking a dip, Argonne National Laboratory, 2020. (Advanced Functional Materials, 2020, 1910062) ](https://www.anl.gov/article/polymer-membranes-could-benefit-from-taking-a-dip)
-  /profile.jpg"
+  "/profile.jpg"
