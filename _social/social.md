@@ -9,12 +9,10 @@ permalink: /social/
 - [Revealing Fundamental Details Surrounding Nanoparticle Self-Assembly, Advanced Photon Source, 2022. (Nano Letters, 2021, 21, 1613–1619)](https://www.aps.anl.gov/APS-Science-Highlight/2022-01-13/revealing-fundamental-details-surrounding-nanoparticle-self)
 - [Polymer membranes could benefit from taking a dip, Argonne National Laboratory, 2020. (Advanced Functional Materials, 2020, 1910062) ](https://www.anl.gov/article/polymer-membranes-could-benefit-from-taking-a-dip)
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-
 <img src="/assets/JPCB-2026.jpg" alt="JPCB 2026" width="220">
 <img src="/assets/JPCL-2025.jpg" alt="JPCL 2025" width="220">
 <img src="/assets/JPCL-2025-2.jpg" alt="JPCL 2025 2" width="220">
 <img src="/assets/ACS-ML-2022.jpg" alt="ACS ML 2022" width="220">
 <img src="/assets/IECR-2018.jpg" alt="IECR 2018" width="220">
 <img src="/assets/Langmuir-2018.jpg" alt="Langmuir 2018" width="220">
-
 </div>
