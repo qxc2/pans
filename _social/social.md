@@ -8,14 +8,13 @@ permalink: /social/
 - [Solving a Critical Solvent Extraction Riddle, University of Chicago, 2023. (ACS Central Science, 2021, 7(11), 1908–1918)](https://chemmatcars.uchicago.edu/2023/04/06/solving-a-critical-solvent-extraction-riddle/)
 - [Revealing Fundamental Details Surrounding Nanoparticle Self-Assembly, Advanced Photon Source, 2022. (Nano Letters, 2021, 21, 1613–1619)](https://www.aps.anl.gov/APS-Science-Highlight/2022-01-13/revealing-fundamental-details-surrounding-nanoparticle-self)
 - [Polymer membranes could benefit from taking a dip, Argonne National Laboratory, 2020. (Advanced Functional Materials, 2020, 1910062) ](https://www.anl.gov/article/polymer-membranes-could-benefit-from-taking-a-dip)
-![JPCB 2026]({{ site.baseurl }}/assets/JPCB-2026.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
-![JPCL 2025]({{ site.baseurl }}/assets/JPCL-2025.jpg)
+<img src="/assets/JPCB-2026.jpg" alt="JPCB 2026" width="220">
+<img src="/assets/JPCL-2025.jpg" alt="JPCL 2025" width="220">
+<img src="/assets/JPCL-2025-2.jpg" alt="JPCL 2025 2" width="220">
+<img src="/assets/ACS-ML-2022.jpg" alt="ACS ML 2022" width="220">
+<img src="/assets/IECR-2018.jpg" alt="IECR 2018" width="220">
+<img src="/assets/Langmuir-2018.jpg" alt="Langmuir 2018" width="220">
 
-![JPCL 2025 2]({{ site.baseurl }}/assets/JPCL-2025-2.jpg)
-
-![ACS ML 2022]({{ site.baseurl }}/assets/ACS-ML-2022.jpg)
-
-![IECR 2018]({{ site.baseurl }}/assets/IECR-2018.jpg)
-
-![Langmuir 2018]({{ site.baseurl }}/assets/Langmuir-2018.jpg)
+</div>
